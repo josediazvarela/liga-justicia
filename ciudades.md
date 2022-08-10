@@ -3,4 +3,4 @@
 1. Ciudad Gótica
 2. Metrópolis
 3. You Dig
-4. Pueblo paleta
+3. Pueblo paleta
